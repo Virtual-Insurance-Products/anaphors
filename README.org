@@ -1,0 +1,10 @@
+#+TITLE: Simple Common Lisp Anaphor Macros
+
+* Anaphors
+This package contains 2 very simple anaphoric macros in Common Lisp:
+~aif~ and ~awhen~. As described in [[http://www.paulgraham.com/onlisptext.html][On Lisp]] by Paul Graham. I've only
+implemented those 2 though - not the other ones he implemented. 
+
+You're probably better off using https://github.com/tokenrove/anaphora
+than this library, but I wrote this before I knew of that, and it's
+trivial. 
